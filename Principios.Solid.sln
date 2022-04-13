@@ -5,23 +5,23 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - SingleResponsibilityPrinciple", "01 - SingleResponsibilityPrinciple", "{5EE1B0E8-2397-444D-801F-E6A911A31F6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principios.Solid.Srp", "Principios.Solid.Srp\Principios.Solid.Srp.csproj", "{00036FD2-D33B-4028-BAD5-E498DBBEA2A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Principios.Solid.Srp", "Principios.Solid.Srp\Principios.Solid.Srp.csproj", "{00036FD2-D33B-4028-BAD5-E498DBBEA2A1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - OpenClosedPrinciple", "02 - OpenClosedPrinciple", "{AE35FEAB-AA9D-49D2-8F53-1B40761A7C9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principios.Solid.Ocp", "Principios.Solid.Ocp\Principios.Solid.Ocp.csproj", "{4736DDC2-8018-4148-852E-8AB36BF9CA42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Principios.Solid.Ocp", "Principios.Solid.Ocp\Principios.Solid.Ocp.csproj", "{4736DDC2-8018-4148-852E-8AB36BF9CA42}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - LiskovSubstitutionPrinciple", "03 - LiskovSubstitutionPrinciple", "{C3BF7A49-01B8-4169-A6A7-747E7917C8D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principios.Solid.Lsp", "Principios.Solid.Lsp\Principios.Solid.Lsp.csproj", "{C420B6B3-E189-47DC-986E-B4CD85001D09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Principios.Solid.Lsp", "Principios.Solid.Lsp\Principios.Solid.Lsp.csproj", "{C420B6B3-E189-47DC-986E-B4CD85001D09}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Interface Segregation Principle", "04 - Interface Segregation Principle", "{D920017D-AD1D-4FF2-B0D9-CBBD8EB37BF2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - InterfaceSegregationPrinciple", "04 - InterfaceSegregationPrinciple", "{D920017D-AD1D-4FF2-B0D9-CBBD8EB37BF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principios.Solid.Isp", "Principios.Solid.Isp\Principios.Solid.Isp.csproj", "{C852B3CE-0567-40BA-8AD7-661A6B96EFEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Principios.Solid.Isp", "Principios.Solid.Isp\Principios.Solid.Isp.csproj", "{C852B3CE-0567-40BA-8AD7-661A6B96EFEA}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Dependency Inversion Principle", "05 - Dependency Inversion Principle", "{67BE48F9-8FFA-4A2F-8B68-9D04CA00E73A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - DependencyInversionPrinciple", "05 - DependencyInversionPrinciple", "{67BE48F9-8FFA-4A2F-8B68-9D04CA00E73A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principios.Solid.Dip", "Principios.Solid.Dip\Principios.Solid.Dip.csproj", "{DA3C9855-6107-455E-B44C-9398FFBD6FF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Principios.Solid.Dip", "Principios.Solid.Dip\Principios.Solid.Dip.csproj", "{DA3C9855-6107-455E-B44C-9398FFBD6FF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
